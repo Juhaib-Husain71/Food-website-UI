@@ -124,8 +124,11 @@ html{
     row-gap: 30px;
 }
 #box-heading{
-    font-family: sans-serif, Times, serif;
-    padding-bottom: 15px;
+  font-family: "Dancing Script", cursive;
+  padding-bottom: 7px;
+  font-size: 2rem;
+  font-weight: 600;
+  font-style: normal;
 }
 .box{
     border: 2px solid gray;
